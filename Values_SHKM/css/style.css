@@ -1,0 +1,82 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.header{
+	width: 1024px;
+	height: 100px;
+	background: blue;
+	margin: 0 auto;
+	color: white;
+}
+.header__img{
+	border-radius: 55%;
+	height: 100px;
+	float: left;
+}
+.header__text{
+	text-align: center;
+	padding-top: 25px;
+}
+.nav{
+	width: 200px;
+	height: 400px;
+	background: cyan;
+	margin-left: 448px;
+	float: left;
+	margin-top: 5px;
+}
+.nav__box_Values-HKM, .nav__box_HKM-future, .nav__box_Graduate{
+	width: 189px;
+	height: 126px;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	background: lightblue;
+}
+.nav__box_Values-HKM_text, .nav__box_HKM-future_text, .nav__box_Graduate_text{
+	text-align: center;
+	font-size: 25px;
+	padding-top: 35px;
+	list-style: none;
+}
+.main{
+	width: 824px;
+	height: 400px;
+	background: yellow;
+	float: left;
+	margin-top: 5px;
+	padding-left: 10px;
+}
+.main__text_small{
+	font-size: 37px;
+}
+.main__text_smalll{
+	font-size: 50px;
+}
+.main__text_bigg{
+	font-size: 45px;
+}
+.main__text_smallll{
+	font-size: 39px;
+}
+.footer{
+	width: 1024px;
+	height: 150px;
+	background: greenyellow;
+	clear: both;
+	margin: 0 auto;
+}
+.footer__img{
+	border-radius: 55%;
+	width: 150px;
+	float: left;
+}
+.footer__text_big, .footer__text_small{
+	text-align: center;
+}
+.footer__text_big, .footer__text_small{
+	text-align: center;
+}
